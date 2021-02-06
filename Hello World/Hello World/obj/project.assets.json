@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flamin Veinz\\source\\repos\\Hello World\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "G:\\Skole\\Bachlor_oving\\Quiz\\Quizz\\Hello World\\Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "C:\\Users\\Flamin Veinz\\source\\repos\\Hello World\\Hello World\\Hello World.csproj",
+      "projectPath": "G:\\Skole\\Bachlor_oving\\Quiz\\Quizz\\Hello World\\Hello World\\Hello World.csproj",
       "packagesPath": "C:\\Users\\Flamin Veinz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flamin Veinz\\source\\repos\\Hello World\\Hello World\\obj\\",
+      "outputPath": "G:\\Skole\\Bachlor_oving\\Quiz\\Quizz\\Hello World\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Flamin Veinz\\AppData\\Roaming\\NuGet\\NuGet.Config",
